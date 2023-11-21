@@ -13,20 +13,20 @@
 ## Subject Specific Topics
 
     - ### Physics
-        - a) Recent physical breakthroughs
-        - b) 
+      - a) Recent physical breakthroughs
+      - b) 
 
     - ### Chemistry
-        - a)oxygen and its isotopes
-        -b)chemical bonding
-        -c)recent chemical breakthroughs
+     - a)oxygen and its isotopes
+     -b)chemical bonding
+     -c)recent chemical breakthroughs
     
     - ### Biology
-    -a)Darwinism (features and setbacks)
-    -b)
+      -a)Darwinism (features and setbacks)
+      -b)
 
     - ### Computer Science
-        -a)ai and its everyday significance 
+     -a)ai and its everyday significance 
 
 ## Interdisciplinary Topics
     
