@@ -2,7 +2,7 @@
 
 
 ## Upcoming Presentations
-    - Ram and Hari, Sunday Physics (a)
+    - 
 
 ## Presentation Guideliens 
     - Two member each group
@@ -13,22 +13,25 @@
 ## Subject Specific Topics
 
     - ### Physics
-        - a) Recent Superconductor Breakthrough (LK99)
+        - a) Recent physical breakthroughs
         - b) 
 
     - ### Chemistry
-        - 
+        - a)oxygen and its isotopes
+        -b)chemical bonding
+        -c)recent chemical breakthroughs
     
     - ### Biology
-
+    -a)Darwinism (features and setbacks)
+    -b)
 
     - ### Computer Science
- 
+        -a)ai and its everyday significance 
 
 ## Interdisciplinary Topics
     
-    a) Chemical and Physical impacts of ozone layer depletion.
-
+    -a) Chemical and Physical impacts of ozone layer depletion
+    -b) 
 
 ## Completed Topics
-    - Sita and Rita, 12th OCT Physics(f)
+    - 
