@@ -1,9 +1,15 @@
 # NEB 2081 Batch Colaborative and Study Resources
 
-Public repo for neb batch 2081 with presentation topics, materials and other colaborative stuff.
+## About 
+    A Public repository for NEB science students, IMS-2081BS
 
-## Presentations 
-Also check presentation topics will be updating soon 
+## Curent Events
+    ### Tests
+        - Physics/Chemistry Test 22nd November (work,hydrogen)
+    ### Other Activities
+        - Weekly Presentation (Provided Below)
+
+## About Presentations 
+   [Click This to access Information regarding PRESENTSTIONS](presentation-topics.md)
 
 
-Do contribute here
