@@ -2,7 +2,8 @@
 
 
 ## Upcoming Presentations
-    - 
+    - Abhi and sloak
+    - Aanan and Gunjan
 
 ## Presentation Guideliens 
     - Two member each group
@@ -13,8 +14,9 @@
 ## Subject Specific Topics
 
     - ### Physics
-      - a) Recent physical breakthroughs
-      - b) 
+      - a) Recent physical breakthro
+      - b) What happens to a marbel ball if its thrown in a hole made through the earths equator?
+      - c) How does value of gravity differ ?
 
     - ### Chemistry
       - a)oxygen and its isotopes
@@ -27,6 +29,7 @@
 
     - ### Computer Science
       -a)ai and its everyday significance 
+      -b)
 
 ## Interdisciplinary Topics
     
